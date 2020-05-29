@@ -1,0 +1,5 @@
+canvas {
+    image-rendering: pixelated; /* webkit */
+    image-rendering: optimizespeed; /* firefox */
+    border: 1px dotted black;
+}
